@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "2020 Newest HP x360 2-in-1 14-inch FHD Touchscreen Chromebook",
+    "text": "Довольно-таки интересное описание товара в несколько строк.Довольно-таки интересное описание товара в несколько строк",
+    "img": "https://cdn.vox-cdn.com/thumbor/llZoN23w0Wrc1k41bXlUuEVaJas=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20042644/mchin_180905_4061_0006.0.jpg",
+    "price": 10000
+  },
+  {
+    "id": 1,
+    "title": "HP Elite X2 1012 G2 Detachable 2-IN-1 Business Tablet Laptop - 12 Inch",
+    "text": "Довольно-таки интересное описание товара в несколько строк.Довольно-таки интересное описание товара в несколько строк",
+    "img": "https://icdn2.digitaltrends.com/image/digitaltrends/xps-13-2-in-1-ces-2017-5.jpg",
+    "price": 8000
+  },
+  {
+    "id": 2,
+    "title": "HP ENVY x360 Convert 13-bd0033dx 2-in-1 laptop - 11th Intel Core i7-1165G7, 8 GB RAM, 512GB SSD,",
+    "text": "Довольно-таки интересное описание товара в несколько строк.Довольно-таки интересное описание товара в несколько строк",
+    "img": "https://pbs.twimg.com/media/EGg7wD_UYAEyu2D.jpg",
+    "price": 18000
+  },
+  {
+    "id": 3,
+    "title": "2020 Lenovo Yoga C940 2-in-1 14 4K Ultra HD IPS Touch Laptop, 10th",
+    "text": "Довольно-таки интересное описание товара в несколько строк.Довольно-таки интересное описание товара в несколько строк",
+    "img": "https://cdn-front.kwork.ru/pics/t3/87/6682233-1588330887.jpg",
+    "price": 16000
+  },
+  {
+    "id": 4,
+    "title": "Asus ZenBook Flip 14 UX461UN-E1022T 2-in-1 Laptop - Intel Core i7-8550U",
+    "text": "Довольно-таки интересное описание товара в несколько строк.Довольно-таки интересное описание товара в несколько строк",
+    "img": "https://bigmag.ua/image/catalog/archive/data/NiaVente/9/256.jpg",
+    "price": 35000
+  }
+]
