@@ -2,7 +2,7 @@
   <main class="main">
     <the-sidebar
       @handleSubmit="handleSubmit"
-      @closeSidebar="isSidebarOpen = false"
+      @closeSidebar="isSidebarOpen = !isSidebarOpen"
       :class="{ 'sidebar-open': isSidebarOpen }"
     />
     <section class="items">
@@ -11,7 +11,7 @@
         @search="search"
         @openSidebar="isSidebarOpen = !isSidebarOpen"
         :isByName="isByName"
-        v-if="items.length"
+        :items="items"
       />
       <div class="empty" v-if="!items.length">
         Окно товаров пустое. Добавьте товар.

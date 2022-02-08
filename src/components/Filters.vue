@@ -5,7 +5,7 @@
       <span></span>
       <span></span>
     </div>
-    <div class="filters-inner">
+    <div class="filters-inner" v-if="items.length">
       <select
         class="items-filter"
         @change="$emit('getValue', $event)"
@@ -30,7 +30,7 @@
 <script>
 export default {
   emits: ["getValue", "search", "openSidebar"],
-  props: ["isByName"],
+  props: ["isByName", "items"],
 };
 </script>
 
